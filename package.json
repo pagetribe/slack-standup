@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pagetribe/slack-standup/issues"
   },
-  "homepage": "https://github.com/pagetribe/slack-standup#readme"
+  "homepage": "https://github.com/pagetribe/slack-standup#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1"
+  }
 }
